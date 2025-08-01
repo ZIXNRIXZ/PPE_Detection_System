@@ -1,6 +1,6 @@
 # 🛡️ PPE Detection System – Real-Time Fire & Safety Monitoring on Jetson TX2
 
-A production-grade, real-time industrial safety monitoring system designed to detect PPE violations (helmets, vests) and environmental hazards (fire, smoke) using YOLO-Models accelerated with TensorRT on NVIDIA Jetson TX2. Featuring a FastAPI backend and a responsive dashboard UI for making the system user friendly.
+A production-grade, real-time industrial safety monitoring system designed to detect PPE violations (helmets, vests) and environmental hazards (fire, smoke) using YOLO-Models accelerated with TensorRT on NVIDIA Jetson TX2. Featuring a FastAPI backend and a responsive dashboard UI, the system is built to enhance safety compliance in industrial environments.
 
 ---
 
@@ -57,8 +57,6 @@ uvicorn main.py --host 0.0.0.0 --port 8000
 cd frontend/safety-eye-vision-guard
 npm install
 npm run dev
-```
-
 ---
 
 ## 🚧 Jetson TX2 Configuration
@@ -79,6 +77,16 @@ trtexec --onnx=yolonas.onnx --saveEngine=yolonas.engine --fp16
 
 ---
 
+## 🌐 Frontend Deployment to Vercel
+
+> **Note:** The system is designed for full-stack deployment but not yet hosted live. The frontend can be deployed to Vercel for demonstration.
+
+1. Push the `frontend` directory to GitHub
+2. Deploy via Vercel dashboard:
+
+   * Build Command: `npm install && npm run build`
+   * Output Directory: `dist`
+3. Set `VITE_API_URL` to your backend endpoint
 
 ---
 
@@ -89,10 +97,26 @@ trtexec --onnx=yolonas.onnx --saveEngine=yolonas.engine --fp16
 * Frame Rate: \~15 FPS on Jetson TX2
 
 ---
-# What it looks like
-<img width="1916" height="1079" alt="Screenshot 2025-07-13 183905" src="https://github.com/user-attachments/assets/bc6cfb1b-987f-42f3-95e0-b4af3c50615e" />
-<img width="1919" height="1079" alt="Screenshot 2025-07-13 183954" src="https://github.com/user-attachments/assets/d8de3be4-36f9-4d03-815e-42462df7c617" />
 
+## 📥 Download Full Project ZIP
+
+You can download the entire project (backend, frontend, scripts, and setup guide) here:
+👉 [Download fire\_ppe.zip](https://github.com/ZIXNRIXZ/PPE_Detection_System/releases/download/v1.0/fire_ppe.zip)
+
+> This ZIP is provided for code review, testing, and deployment by collaborators or recruiters. Please refer to the README inside for full setup instructions.
+
+---
+
+## 🎯 Project Overview for Recruiters
+
+![Dashboard Screenshot 1](https://github.com/user-attachments/assets/f28beeb0-7591-41ff-a4d5-0cf0e04a1032)
+![Dashboard Screenshot 2](https://github.com/user-attachments/assets/85c5267f-1b82-4062-be47-52a00609d4ce)
+
+* Demonstrates ability to build full-stack AI systems with real-time video processing
+* Optimized AI model deployment on edge hardware (Jetson TX2)
+* Designed complete automation pipeline (scripts + UI + backend)
+* Smart dashboard UI with real-time logging and alert capabilities
+* Practical industry application with measurable performance metrics
 
 ---
 
