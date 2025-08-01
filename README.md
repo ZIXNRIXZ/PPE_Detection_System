@@ -1,6 +1,6 @@
 # 🛡️ PPE Detection System – Real-Time Fire & Safety Monitoring on Jetson TX2
 
-A production-grade, real-time industrial safety monitoring system designed to detect PPE violations (helmets, vests) and environmental hazards (fire, smoke) using YOLO-NAS accelerated with TensorRT on NVIDIA Jetson TX2. Featuring a FastAPI backend and a responsive dashboard UI for making the system user friendly.
+A production-grade, real-time industrial safety monitoring system designed to detect PPE violations (helmets, vests) and environmental hazards (fire, smoke) using YOLO-Models accelerated with TensorRT on NVIDIA Jetson TX2. Featuring a FastAPI backend and a responsive dashboard UI for making the system user friendly.
 
 ---
 
