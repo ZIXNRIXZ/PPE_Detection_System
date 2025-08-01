@@ -1,0 +1,799 @@
+Time,Model,Class,Confidence,Snapshot
+2025-07-10_18-55-02,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-10_18-55-02.jpg
+2025-07-10_18-55-02,PPE,IFR suit,0.52,snapshots/PPE_IFR suit_2025-07-10_18-55-02.jpg
+2025-07-10_18-55-03,PPE,IFR suit,0.52,snapshots/PPE_IFR suit_2025-07-10_18-55-03.jpg
+2025-07-10_18-55-03,PPE,IFR suit,0.51,snapshots/PPE_IFR suit_2025-07-10_18-55-03.jpg
+2025-07-10_18-55-03,PPE,IFR suit,0.5,snapshots/PPE_IFR suit_2025-07-10_18-55-03.jpg
+2025-07-10_18-55-04,PPE,IFR suit,0.52,snapshots/PPE_IFR suit_2025-07-10_18-55-04.jpg
+2025-07-10_18-55-04,PPE,IFR suit,0.51,snapshots/PPE_IFR suit_2025-07-10_18-55-04.jpg
+2025-07-10_18-55-04,PPE,IFR suit,0.54,snapshots/PPE_IFR suit_2025-07-10_18-55-04.jpg
+2025-07-10_18-55-04,PPE,IFR suit,0.5,snapshots/PPE_IFR suit_2025-07-10_18-55-04.jpg
+2025-07-10_18-55-05,PPE,IFR suit,0.55,snapshots/PPE_IFR suit_2025-07-10_18-55-05.jpg
+2025-07-10_18-55-05,PPE,IFR suit,0.57,snapshots/PPE_IFR suit_2025-07-10_18-55-05.jpg
+2025-07-10_18-55-05,PPE,IFR suit,0.53,snapshots/PPE_IFR suit_2025-07-10_18-55-05.jpg
+2025-07-10_18-55-05,PPE,IFR suit,0.63,snapshots/PPE_IFR suit_2025-07-10_18-55-05.jpg
+2025-07-10_18-55-06,PPE,IFR suit,0.55,snapshots/PPE_IFR suit_2025-07-10_18-55-06.jpg
+2025-07-10_18-55-06,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_18-55-06.jpg
+2025-07-10_18-55-06,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-10_18-55-06.jpg
+2025-07-10_18-55-10,PPE,No Gloves,0.57,snapshots/PPE_No Gloves_2025-07-10_18-55-10.jpg
+2025-07-10_18-55-10,PPE,No Gloves,0.56,snapshots/PPE_No Gloves_2025-07-10_18-55-10.jpg
+2025-07-10_18-55-13,PPE,No Gloves,0.52,snapshots/PPE_No Gloves_2025-07-10_18-55-13.jpg
+2025-07-10_18-55-14,PPE,IFR suit,0.53,snapshots/PPE_IFR suit_2025-07-10_18-55-14.jpg
+2025-07-10_18-55-16,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_18-55-16.jpg
+2025-07-10_18-55-17,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_18-55-17.jpg
+2025-07-10_18-55-18,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-10_18-55-18.jpg
+2025-07-10_18-55-18,FireSmoke,fire,0.52,snapshots/FireSmoke_fire_2025-07-10_18-55-18.jpg
+2025-07-10_18-55-18,PPE,IFR suit,0.52,snapshots/PPE_IFR suit_2025-07-10_18-55-18.jpg
+2025-07-10_18-55-20,PPE,IFR suit,0.58,snapshots/PPE_IFR suit_2025-07-10_18-55-20.jpg
+2025-07-10_18-55-21,PPE,No Helmet,0.66,snapshots/PPE_No Helmet_2025-07-10_18-55-21.jpg
+2025-07-10_18-55-22,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_18-55-22.jpg
+2025-07-10_18-55-22,PPE,No Gloves,0.51,snapshots/PPE_No Gloves_2025-07-10_18-55-22.jpg
+2025-07-10_18-55-22,PPE,No Gloves,0.69,snapshots/PPE_No Gloves_2025-07-10_18-55-22.jpg
+2025-07-10_18-55-22,FireSmoke,fire,0.55,snapshots/FireSmoke_fire_2025-07-10_18-55-22.jpg
+2025-07-10_18-55-22,PPE,No Gloves,0.65,snapshots/PPE_No Gloves_2025-07-10_18-55-22.jpg
+2025-07-10_18-55-22,FireSmoke,fire,0.5,snapshots/FireSmoke_fire_2025-07-10_18-55-22.jpg
+2025-07-10_18-55-26,PPE,No Gloves,0.5,snapshots/PPE_No Gloves_2025-07-10_18-55-26.jpg
+2025-07-10_18-55-27,PPE,IFR suit,0.52,snapshots/PPE_IFR suit_2025-07-10_18-55-27.jpg
+2025-07-10_18-55-27,PPE,IFR suit,0.51,snapshots/PPE_IFR suit_2025-07-10_18-55-27.jpg
+2025-07-10_18-55-28,PPE,IFR suit,0.54,snapshots/PPE_IFR suit_2025-07-10_18-55-28.jpg
+2025-07-10_18-55-28,PPE,IFR suit,0.5,snapshots/PPE_IFR suit_2025-07-10_18-55-28.jpg
+2025-07-10_18-55-28,PPE,IFR suit,0.5,snapshots/PPE_IFR suit_2025-07-10_18-55-28.jpg
+2025-07-10_18-55-32,PPE,IFR suit,0.6,snapshots/PPE_IFR suit_2025-07-10_18-55-32.jpg
+2025-07-10_18-55-32,PPE,IFR suit,0.58,snapshots/PPE_IFR suit_2025-07-10_18-55-32.jpg
+2025-07-10_18-55-33,PPE,IFR suit,0.62,snapshots/PPE_IFR suit_2025-07-10_18-55-33.jpg
+2025-07-10_18-55-33,PPE,IFR suit,0.61,snapshots/PPE_IFR suit_2025-07-10_18-55-33.jpg
+2025-07-10_18-55-33,PPE,IFR suit,0.62,snapshots/PPE_IFR suit_2025-07-10_18-55-33.jpg
+2025-07-10_18-55-33,PPE,IFR suit,0.62,snapshots/PPE_IFR suit_2025-07-10_18-55-33.jpg
+2025-07-10_18-55-34,PPE,IFR suit,0.62,snapshots/PPE_IFR suit_2025-07-10_18-55-34.jpg
+2025-07-10_18-55-34,PPE,IFR suit,0.63,snapshots/PPE_IFR suit_2025-07-10_18-55-34.jpg
+2025-07-10_18-55-34,PPE,IFR suit,0.6,snapshots/PPE_IFR suit_2025-07-10_18-55-34.jpg
+2025-07-10_18-55-35,PPE,IFR suit,0.58,snapshots/PPE_IFR suit_2025-07-10_18-55-35.jpg
+2025-07-10_18-55-35,PPE,IFR suit,0.62,snapshots/PPE_IFR suit_2025-07-10_18-55-35.jpg
+2025-07-10_18-55-35,PPE,IFR suit,0.67,snapshots/PPE_IFR suit_2025-07-10_18-55-35.jpg
+2025-07-10_18-55-35,PPE,IFR suit,0.64,snapshots/PPE_IFR suit_2025-07-10_18-55-35.jpg
+2025-07-10_18-55-36,PPE,IFR suit,0.64,snapshots/PPE_IFR suit_2025-07-10_18-55-36.jpg
+2025-07-10_18-55-36,PPE,IFR suit,0.61,snapshots/PPE_IFR suit_2025-07-10_18-55-36.jpg
+2025-07-10_18-55-36,PPE,IFR suit,0.58,snapshots/PPE_IFR suit_2025-07-10_18-55-36.jpg
+2025-07-10_18-55-36,PPE,IFR suit,0.55,snapshots/PPE_IFR suit_2025-07-10_18-55-36.jpg
+2025-07-10_18-55-36,PPE,People,0.53,snapshots/PPE_People_2025-07-10_18-55-36.jpg
+2025-07-10_18-55-37,PPE,IFR suit,0.59,snapshots/PPE_IFR suit_2025-07-10_18-55-37.jpg
+2025-07-10_18-55-37,PPE,People,0.54,snapshots/PPE_People_2025-07-10_18-55-37.jpg
+2025-07-10_18-55-46,PPE,IFR suit,0.51,snapshots/PPE_IFR suit_2025-07-10_18-55-46.jpg
+2025-07-10_18-55-50,PPE,IFR suit,0.53,snapshots/PPE_IFR suit_2025-07-10_18-55-50.jpg
+2025-07-10_18-55-50,PPE,IFR suit,0.68,snapshots/PPE_IFR suit_2025-07-10_18-55-50.jpg
+2025-07-10_18-55-50,PPE,IFR suit,0.56,snapshots/PPE_IFR suit_2025-07-10_18-55-50.jpg
+2025-07-10_18-55-51,PPE,IFR suit,0.56,snapshots/PPE_IFR suit_2025-07-10_18-55-51.jpg
+2025-07-10_18-55-51,PPE,IFR suit,0.57,snapshots/PPE_IFR suit_2025-07-10_18-55-51.jpg
+2025-07-10_18-55-51,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_18-55-51.jpg
+2025-07-10_18-55-51,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-10_18-55-51.jpg
+2025-07-10_18-55-52,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-10_18-55-52.jpg
+2025-07-10_18-55-52,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_18-55-52.jpg
+2025-07-10_18-55-53,PPE,IFR suit,0.55,snapshots/PPE_IFR suit_2025-07-10_18-55-53.jpg
+2025-07-10_18-55-53,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_18-55-53.jpg
+2025-07-10_18-55-53,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_18-55-53.jpg
+2025-07-10_18-55-53,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-10_18-55-53.jpg
+2025-07-10_18-55-54,PPE,No Helmet,0.62,snapshots/PPE_No Helmet_2025-07-10_18-55-54.jpg
+2025-07-10_18-55-54,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_18-55-54.jpg
+2025-07-10_18-55-54,PPE,IFR suit,0.5,snapshots/PPE_IFR suit_2025-07-10_18-55-54.jpg
+2025-07-10_18-55-54,PPE,IFR suit,0.54,snapshots/PPE_IFR suit_2025-07-10_18-55-54.jpg
+2025-07-10_18-55-56,PPE,IFR suit,0.5,snapshots/PPE_IFR suit_2025-07-10_18-55-56.jpg
+2025-07-10_18-55-57,PPE,IFR suit,0.62,snapshots/PPE_IFR suit_2025-07-10_18-55-57.jpg
+2025-07-10_18-55-57,PPE,IFR suit,0.53,snapshots/PPE_IFR suit_2025-07-10_18-55-57.jpg
+2025-07-10_18-55-57,PPE,No Helmet,0.64,snapshots/PPE_No Helmet_2025-07-10_18-55-57.jpg
+2025-07-10_18-55-57,PPE,IFR suit,0.6,snapshots/PPE_IFR suit_2025-07-10_18-55-57.jpg
+2025-07-10_18-55-57,PPE,IFR suit,0.57,snapshots/PPE_IFR suit_2025-07-10_18-55-57.jpg
+2025-07-10_18-55-58,PPE,IFR suit,0.69,snapshots/PPE_IFR suit_2025-07-10_18-55-58.jpg
+2025-07-10_18-55-58,PPE,IFR suit,0.54,snapshots/PPE_IFR suit_2025-07-10_18-55-58.jpg
+2025-07-10_18-55-58,PPE,IFR suit,0.51,snapshots/PPE_IFR suit_2025-07-10_18-55-58.jpg
+2025-07-10_18-55-59,PPE,IFR suit,0.69,snapshots/PPE_IFR suit_2025-07-10_18-55-59.jpg
+2025-07-10_18-55-59,PPE,IFR suit,0.66,snapshots/PPE_IFR suit_2025-07-10_18-55-59.jpg
+2025-07-10_18-56-00,PPE,IFR suit,0.77,snapshots/PPE_IFR suit_2025-07-10_18-56-00.jpg
+2025-07-10_18-56-01,PPE,No IFR,0.51,snapshots/PPE_No IFR_2025-07-10_18-56-01.jpg
+2025-07-10_18-56-06,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_18-56-06.jpg
+2025-07-10_18-56-07,PPE,No IFR,0.57,snapshots/PPE_No IFR_2025-07-10_18-56-07.jpg
+2025-07-10_18-56-07,PPE,No IFR,0.52,snapshots/PPE_No IFR_2025-07-10_18-56-07.jpg
+2025-07-10_18-56-07,PPE,No IFR,0.53,snapshots/PPE_No IFR_2025-07-10_18-56-07.jpg
+2025-07-10_18-56-07,PPE,No IFR,0.62,snapshots/PPE_No IFR_2025-07-10_18-56-07.jpg
+2025-07-10_18-56-07,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-10_18-56-07.jpg
+2025-07-10_18-56-08,PPE,No IFR,0.62,snapshots/PPE_No IFR_2025-07-10_18-56-08.jpg
+2025-07-10_18-56-08,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-10_18-56-08.jpg
+2025-07-10_18-56-08,PPE,No Helmet,0.64,snapshots/PPE_No Helmet_2025-07-10_18-56-08.jpg
+2025-07-10_18-56-08,PPE,No IFR,0.53,snapshots/PPE_No IFR_2025-07-10_18-56-08.jpg
+2025-07-10_18-56-08,PPE,No IFR,0.61,snapshots/PPE_No IFR_2025-07-10_18-56-08.jpg
+2025-07-10_18-56-08,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-10_18-56-08.jpg
+2025-07-10_18-56-08,PPE,No IFR,0.56,snapshots/PPE_No IFR_2025-07-10_18-56-08.jpg
+2025-07-10_18-56-09,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-10_18-56-09.jpg
+2025-07-10_18-56-09,PPE,No IFR,0.51,snapshots/PPE_No IFR_2025-07-10_18-56-09.jpg
+2025-07-10_18-56-09,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-10_18-56-09.jpg
+2025-07-10_18-56-09,PPE,No IFR,0.53,snapshots/PPE_No IFR_2025-07-10_18-56-09.jpg
+2025-07-10_18-56-09,PPE,No Helmet,0.64,snapshots/PPE_No Helmet_2025-07-10_18-56-09.jpg
+2025-07-10_18-56-10,PPE,No IFR,0.56,snapshots/PPE_No IFR_2025-07-10_18-56-10.jpg
+2025-07-10_18-56-10,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_18-56-10.jpg
+2025-07-10_18-56-10,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-10_18-56-10.jpg
+2025-07-10_18-56-10,PPE,No Helmet,0.68,snapshots/PPE_No Helmet_2025-07-10_18-56-10.jpg
+2025-07-10_18-56-10,PPE,No IFR,0.6,snapshots/PPE_No IFR_2025-07-10_18-56-10.jpg
+2025-07-10_18-56-10,PPE,No Helmet,0.65,snapshots/PPE_No Helmet_2025-07-10_18-56-10.jpg
+2025-07-10_18-56-10,PPE,No IFR,0.6,snapshots/PPE_No IFR_2025-07-10_18-56-10.jpg
+2025-07-10_18-56-11,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-10_18-56-11.jpg
+2025-07-10_18-56-11,PPE,No IFR,0.55,snapshots/PPE_No IFR_2025-07-10_18-56-11.jpg
+2025-07-10_18-56-11,PPE,No Helmet,0.7,snapshots/PPE_No Helmet_2025-07-10_18-56-11.jpg
+2025-07-10_18-56-11,PPE,No IFR,0.56,snapshots/PPE_No IFR_2025-07-10_18-56-11.jpg
+2025-07-10_18-56-11,PPE,No Helmet,0.66,snapshots/PPE_No Helmet_2025-07-10_18-56-11.jpg
+2025-07-10_18-56-12,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-10_18-56-12.jpg
+2025-07-10_18-56-12,PPE,No IFR,0.56,snapshots/PPE_No IFR_2025-07-10_18-56-12.jpg
+2025-07-10_18-56-12,PPE,No Helmet,0.64,snapshots/PPE_No Helmet_2025-07-10_18-56-12.jpg
+2025-07-10_18-56-12,PPE,No Helmet,0.65,snapshots/PPE_No Helmet_2025-07-10_18-56-12.jpg
+2025-07-10_18-56-12,PPE,No IFR,0.54,snapshots/PPE_No IFR_2025-07-10_18-56-12.jpg
+2025-07-10_18-56-12,PPE,No Helmet,0.66,snapshots/PPE_No Helmet_2025-07-10_18-56-12.jpg
+2025-07-10_18-56-12,PPE,No IFR,0.52,snapshots/PPE_No IFR_2025-07-10_18-56-12.jpg
+2025-07-10_18-56-13,PPE,No Helmet,0.74,snapshots/PPE_No Helmet_2025-07-10_18-56-13.jpg
+2025-07-10_18-56-13,PPE,No IFR,0.54,snapshots/PPE_No IFR_2025-07-10_18-56-13.jpg
+2025-07-10_18-56-13,PPE,No Helmet,0.68,snapshots/PPE_No Helmet_2025-07-10_18-56-13.jpg
+2025-07-10_18-56-13,PPE,No IFR,0.56,snapshots/PPE_No IFR_2025-07-10_18-56-13.jpg
+2025-07-10_18-56-13,PPE,No IFR,0.63,snapshots/PPE_No IFR_2025-07-10_18-56-13.jpg
+2025-07-10_18-56-13,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-10_18-56-13.jpg
+2025-07-10_18-56-14,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-10_18-56-14.jpg
+2025-07-10_18-56-14,PPE,No IFR,0.57,snapshots/PPE_No IFR_2025-07-10_18-56-14.jpg
+2025-07-10_18-56-14,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-10_18-56-14.jpg
+2025-07-10_18-56-14,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-10_18-56-14.jpg
+2025-07-10_18-56-15,PPE,No IFR,0.55,snapshots/PPE_No IFR_2025-07-10_18-56-15.jpg
+2025-07-10_18-56-15,PPE,No IFR,0.57,snapshots/PPE_No IFR_2025-07-10_18-56-15.jpg
+2025-07-10_18-56-16,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-10_18-56-16.jpg
+2025-07-10_18-56-16,PPE,IFR suit,0.61,snapshots/PPE_IFR suit_2025-07-10_18-56-16.jpg
+2025-07-10_18-56-16,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-10_18-56-16.jpg
+2025-07-10_18-56-16,PPE,No IFR,0.52,snapshots/PPE_No IFR_2025-07-10_18-56-16.jpg
+2025-07-10_18-56-17,PPE,No Helmet,0.62,snapshots/PPE_No Helmet_2025-07-10_18-56-17.jpg
+2025-07-10_18-56-17,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_18-56-17.jpg
+2025-07-10_18-56-17,PPE,IFR suit,0.51,snapshots/PPE_IFR suit_2025-07-10_18-56-17.jpg
+2025-07-10_18-56-17,PPE,No Helmet,0.65,snapshots/PPE_No Helmet_2025-07-10_18-56-17.jpg
+2025-07-10_18-56-17,PPE,IFR suit,0.63,snapshots/PPE_IFR suit_2025-07-10_18-56-17.jpg
+2025-07-10_18-56-17,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-10_18-56-17.jpg
+2025-07-10_18-56-18,PPE,No Helmet,0.69,snapshots/PPE_No Helmet_2025-07-10_18-56-18.jpg
+2025-07-10_18-56-18,PPE,No Helmet,0.62,snapshots/PPE_No Helmet_2025-07-10_18-56-18.jpg
+2025-07-10_18-56-18,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-10_18-56-18.jpg
+2025-07-10_18-56-18,PPE,No Helmet,0.69,snapshots/PPE_No Helmet_2025-07-10_18-56-18.jpg
+2025-07-10_18-56-19,PPE,No Helmet,0.74,snapshots/PPE_No Helmet_2025-07-10_18-56-19.jpg
+2025-07-10_18-56-19,PPE,No Helmet,0.71,snapshots/PPE_No Helmet_2025-07-10_18-56-19.jpg
+2025-07-10_18-56-20,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-10_18-56-20.jpg
+2025-07-10_18-56-20,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_18-56-20.jpg
+2025-07-10_18-56-21,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-10_18-56-21.jpg
+2025-07-10_18-56-21,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-10_18-56-21.jpg
+2025-07-10_18-56-22,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-10_18-56-22.jpg
+2025-07-10_18-56-22,PPE,No Helmet,0.66,snapshots/PPE_No Helmet_2025-07-10_18-56-22.jpg
+2025-07-10_18-56-22,PPE,No Helmet,0.64,snapshots/PPE_No Helmet_2025-07-10_18-56-22.jpg
+2025-07-10_18-56-23,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-10_18-56-23.jpg
+2025-07-10_18-56-23,PPE,No Helmet,0.71,snapshots/PPE_No Helmet_2025-07-10_18-56-23.jpg
+2025-07-10_18-56-23,PPE,IFR suit,0.57,snapshots/PPE_IFR suit_2025-07-10_18-56-23.jpg
+2025-07-10_18-56-23,PPE,No Helmet,0.63,snapshots/PPE_No Helmet_2025-07-10_18-56-23.jpg
+2025-07-10_18-56-23,PPE,No IFR,0.5,snapshots/PPE_No IFR_2025-07-10_18-56-23.jpg
+2025-07-10_18-56-23,PPE,No Helmet,0.72,snapshots/PPE_No Helmet_2025-07-10_18-56-23.jpg
+2025-07-10_18-56-24,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-10_18-56-24.jpg
+2025-07-10_18-56-24,PPE,No IFR,0.52,snapshots/PPE_No IFR_2025-07-10_18-56-24.jpg
+2025-07-10_18-56-24,PPE,No IFR,0.64,snapshots/PPE_No IFR_2025-07-10_18-56-24.jpg
+2025-07-10_18-56-24,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-10_18-56-24.jpg
+2025-07-10_18-56-24,PPE,No IFR,0.56,snapshots/PPE_No IFR_2025-07-10_18-56-24.jpg
+2025-07-10_18-56-27,FireSmoke,fire,0.59,snapshots/FireSmoke_fire_2025-07-10_18-56-27.jpg
+2025-07-10_18-56-53,PPE,IFR suit,0.58,snapshots/PPE_IFR suit_2025-07-10_18-56-53.jpg
+2025-07-10_18-56-53,PPE,IFR suit,0.63,snapshots/PPE_IFR suit_2025-07-10_18-56-53.jpg
+2025-07-10_18-56-53,PPE,IFR suit,0.72,snapshots/PPE_IFR suit_2025-07-10_18-56-53.jpg
+2025-07-10_18-56-53,PPE,IFR suit,0.74,snapshots/PPE_IFR suit_2025-07-10_18-56-53.jpg
+2025-07-10_18-56-54,PPE,IFR suit,0.58,snapshots/PPE_IFR suit_2025-07-10_18-56-54.jpg
+2025-07-10_18-56-59,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-10_18-56-59.jpg
+2025-07-10_18-57-00,PPE,IFR suit,0.61,snapshots/PPE_IFR suit_2025-07-10_18-57-00.jpg
+2025-07-10_18-57-29,PPE,IFR suit,0.54,snapshots/PPE_IFR suit_2025-07-10_18-57-29.jpg
+2025-07-10_18-57-30,PPE,IFR suit,0.62,snapshots/PPE_IFR suit_2025-07-10_18-57-30.jpg
+2025-07-10_18-57-36,PPE,IFR suit,0.59,snapshots/PPE_IFR suit_2025-07-10_18-57-36.jpg
+2025-07-10_18-57-37,PPE,IFR suit,0.53,snapshots/PPE_IFR suit_2025-07-10_18-57-37.jpg
+2025-07-10_19-00-59,PPE,Helmet,0.65,snapshots/PPE_Helmet_2025-07-10_19-00-59.jpg
+2025-07-10_19-01-09,PPE,IFR suit,0.5,snapshots/PPE_IFR suit_2025-07-10_19-01-09.jpg
+2025-07-10_19-01-10,PPE,IFR suit,0.5,snapshots/PPE_IFR suit_2025-07-10_19-01-10.jpg
+2025-07-10_19-01-11,PPE,IFR suit,0.56,snapshots/PPE_IFR suit_2025-07-10_19-01-11.jpg
+2025-07-10_19-01-12,PPE,No Gloves,0.59,snapshots/PPE_No Gloves_2025-07-10_19-01-12.jpg
+2025-07-10_19-01-12,PPE,No Gloves,0.6,snapshots/PPE_No Gloves_2025-07-10_19-01-12.jpg
+2025-07-10_19-01-13,PPE,IFR suit,0.51,snapshots/PPE_IFR suit_2025-07-10_19-01-13.jpg
+2025-07-10_19-01-13,PPE,No Gloves,0.53,snapshots/PPE_No Gloves_2025-07-10_19-01-13.jpg
+2025-07-10_19-01-13,PPE,IFR suit,0.51,snapshots/PPE_IFR suit_2025-07-10_19-01-13.jpg
+2025-07-10_19-01-13,PPE,No Gloves,0.57,snapshots/PPE_No Gloves_2025-07-10_19-01-13.jpg
+2025-07-10_19-01-13,PPE,No Gloves,0.57,snapshots/PPE_No Gloves_2025-07-10_19-01-13.jpg
+2025-07-10_19-01-13,PPE,No Gloves,0.52,snapshots/PPE_No Gloves_2025-07-10_19-01-13.jpg
+2025-07-10_19-01-14,PPE,IFR suit,0.5,snapshots/PPE_IFR suit_2025-07-10_19-01-14.jpg
+2025-07-10_19-01-15,PPE,No Gloves,0.52,snapshots/PPE_No Gloves_2025-07-10_19-01-15.jpg
+2025-07-10_19-01-15,PPE,No Gloves,0.59,snapshots/PPE_No Gloves_2025-07-10_19-01-15.jpg
+2025-07-10_19-01-16,PPE,No Gloves,0.52,snapshots/PPE_No Gloves_2025-07-10_19-01-16.jpg
+2025-07-10_19-01-17,PPE,No Gloves,0.51,snapshots/PPE_No Gloves_2025-07-10_19-01-17.jpg
+2025-07-10_19-01-19,PPE,IFR suit,0.6,snapshots/PPE_IFR suit_2025-07-10_19-01-19.jpg
+2025-07-10_19-01-20,PPE,IFR suit,0.76,snapshots/PPE_IFR suit_2025-07-10_19-01-20.jpg
+2025-07-10_19-01-22,PPE,IFR suit,0.54,snapshots/PPE_IFR suit_2025-07-10_19-01-22.jpg
+2025-07-10_19-01-22,PPE,IFR suit,0.69,snapshots/PPE_IFR suit_2025-07-10_19-01-22.jpg
+2025-07-10_19-01-23,PPE,IFR suit,0.75,snapshots/PPE_IFR suit_2025-07-10_19-01-23.jpg
+2025-07-10_19-01-23,PPE,IFR suit,0.68,snapshots/PPE_IFR suit_2025-07-10_19-01-23.jpg
+2025-07-10_19-01-23,PPE,IFR suit,0.68,snapshots/PPE_IFR suit_2025-07-10_19-01-23.jpg
+2025-07-10_19-01-23,PPE,IFR suit,0.66,snapshots/PPE_IFR suit_2025-07-10_19-01-23.jpg
+2025-07-10_19-01-24,PPE,IFR suit,0.54,snapshots/PPE_IFR suit_2025-07-10_19-01-24.jpg
+2025-07-10_19-01-25,PPE,IFR suit,0.6,snapshots/PPE_IFR suit_2025-07-10_19-01-25.jpg
+2025-07-10_19-01-25,PPE,IFR suit,0.63,snapshots/PPE_IFR suit_2025-07-10_19-01-25.jpg
+2025-07-10_19-01-25,PPE,IFR suit,0.64,snapshots/PPE_IFR suit_2025-07-10_19-01-25.jpg
+2025-07-10_19-01-25,PPE,IFR suit,0.59,snapshots/PPE_IFR suit_2025-07-10_19-01-25.jpg
+2025-07-10_19-01-26,PPE,IFR suit,0.78,snapshots/PPE_IFR suit_2025-07-10_19-01-26.jpg
+2025-07-10_19-01-26,PPE,IFR suit,0.7,snapshots/PPE_IFR suit_2025-07-10_19-01-26.jpg
+2025-07-10_19-01-26,PPE,IFR suit,0.7,snapshots/PPE_IFR suit_2025-07-10_19-01-26.jpg
+2025-07-10_19-01-27,PPE,IFR suit,0.76,snapshots/PPE_IFR suit_2025-07-10_19-01-27.jpg
+2025-07-10_19-01-27,PPE,IFR suit,0.69,snapshots/PPE_IFR suit_2025-07-10_19-01-27.jpg
+2025-07-10_19-01-27,PPE,IFR suit,0.71,snapshots/PPE_IFR suit_2025-07-10_19-01-27.jpg
+2025-07-10_19-01-27,PPE,IFR suit,0.67,snapshots/PPE_IFR suit_2025-07-10_19-01-27.jpg
+2025-07-10_19-01-28,PPE,IFR suit,0.82,snapshots/PPE_IFR suit_2025-07-10_19-01-28.jpg
+2025-07-10_19-01-28,PPE,IFR suit,0.68,snapshots/PPE_IFR suit_2025-07-10_19-01-28.jpg
+2025-07-10_19-01-28,PPE,IFR suit,0.57,snapshots/PPE_IFR suit_2025-07-10_19-01-28.jpg
+2025-07-10_19-32-46,FireSmoke,smoke,0.63,snapshots/FireSmoke_smoke_2025-07-10_19-32-46.jpg
+2025-07-10_19-32-59,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-10_19-32-59.jpg
+2025-07-10_19-32-59,PPE,No Helmet,0.7,snapshots/PPE_No Helmet_2025-07-10_19-32-59.jpg
+2025-07-10_19-33-00,FireSmoke,smoke,0.53,snapshots/FireSmoke_smoke_2025-07-10_19-33-00.jpg
+2025-07-10_19-33-00,FireSmoke,smoke,0.55,snapshots/FireSmoke_smoke_2025-07-10_19-33-00.jpg
+2025-07-10_19-33-01,FireSmoke,smoke,0.55,snapshots/FireSmoke_smoke_2025-07-10_19-33-01.jpg
+2025-07-10_19-33-01,FireSmoke,smoke,0.6,snapshots/FireSmoke_smoke_2025-07-10_19-33-01.jpg
+2025-07-10_19-33-01,FireSmoke,smoke,0.7,snapshots/FireSmoke_smoke_2025-07-10_19-33-01.jpg
+2025-07-10_19-33-01,FireSmoke,smoke,0.52,snapshots/FireSmoke_smoke_2025-07-10_19-33-01.jpg
+2025-07-10_19-33-02,FireSmoke,smoke,0.6,snapshots/FireSmoke_smoke_2025-07-10_19-33-02.jpg
+2025-07-10_19-33-04,FireSmoke,smoke,0.71,snapshots/FireSmoke_smoke_2025-07-10_19-33-04.jpg
+2025-07-10_19-33-05,FireSmoke,smoke,0.82,snapshots/FireSmoke_smoke_2025-07-10_19-33-05.jpg
+2025-07-10_19-33-05,FireSmoke,smoke,0.82,snapshots/FireSmoke_smoke_2025-07-10_19-33-05.jpg
+2025-07-10_19-33-05,FireSmoke,smoke,0.61,snapshots/FireSmoke_smoke_2025-07-10_19-33-05.jpg
+2025-07-10_19-33-10,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-10_19-33-10.jpg
+2025-07-10_19-33-11,PPE,No Helmet,0.5,snapshots/PPE_No Helmet_2025-07-10_19-33-11.jpg
+2025-07-10_19-33-18,PPE,IFR suit,0.51,snapshots/PPE_IFR suit_2025-07-10_19-33-18.jpg
+2025-07-10_19-33-23,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_19-33-23.jpg
+2025-07-10_19-33-24,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_19-33-24.jpg
+2025-07-10_19-33-24,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-10_19-33-24.jpg
+2025-07-10_19-33-25,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_19-33-25.jpg
+2025-07-10_19-33-26,PPE,No Helmet,0.64,snapshots/PPE_No Helmet_2025-07-10_19-33-26.jpg
+2025-07-10_19-33-26,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-10_19-33-26.jpg
+2025-07-10_19-33-28,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-10_19-33-28.jpg
+2025-07-10_19-33-28,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-10_19-33-28.jpg
+2025-07-10_19-33-28,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-10_19-33-28.jpg
+2025-07-10_19-33-28,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-10_19-33-28.jpg
+2025-07-10_19-33-29,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-10_19-33-29.jpg
+2025-07-10_19-33-29,PPE,IFR suit,0.52,snapshots/PPE_IFR suit_2025-07-10_19-33-29.jpg
+2025-07-10_19-33-30,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-10_19-33-30.jpg
+2025-07-10_19-33-30,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-10_19-33-30.jpg
+2025-07-10_19-33-30,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_19-33-30.jpg
+2025-07-10_19-33-31,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_19-33-31.jpg
+2025-07-10_19-33-31,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-10_19-33-31.jpg
+2025-07-10_19-33-32,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-10_19-33-32.jpg
+2025-07-10_19-33-33,PPE,IFR suit,0.53,snapshots/PPE_IFR suit_2025-07-10_19-33-33.jpg
+2025-07-10_19-33-33,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_19-33-33.jpg
+2025-07-10_19-33-33,PPE,IFR suit,0.55,snapshots/PPE_IFR suit_2025-07-10_19-33-33.jpg
+2025-07-10_19-33-33,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_19-33-33.jpg
+2025-07-10_19-33-33,PPE,IFR suit,0.61,snapshots/PPE_IFR suit_2025-07-10_19-33-33.jpg
+2025-07-10_19-33-33,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_19-33-33.jpg
+2025-07-10_19-33-34,PPE,IFR suit,0.58,snapshots/PPE_IFR suit_2025-07-10_19-33-34.jpg
+2025-07-10_19-33-34,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-10_19-33-34.jpg
+2025-07-10_19-33-34,PPE,IFR suit,0.54,snapshots/PPE_IFR suit_2025-07-10_19-33-34.jpg
+2025-07-10_19-33-34,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_19-33-34.jpg
+2025-07-10_19-33-35,PPE,No Helmet,0.5,snapshots/PPE_No Helmet_2025-07-10_19-33-35.jpg
+2025-07-10_19-33-36,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_19-33-36.jpg
+2025-07-10_19-33-36,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_19-33-36.jpg
+2025-07-10_19-33-37,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_19-33-37.jpg
+2025-07-10_19-33-37,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-10_19-33-37.jpg
+2025-07-10_19-33-37,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-10_19-33-37.jpg
+2025-07-10_19-33-37,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-10_19-33-37.jpg
+2025-07-10_19-33-38,PPE,No Helmet,0.66,snapshots/PPE_No Helmet_2025-07-10_19-33-38.jpg
+2025-07-10_19-33-38,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-10_19-33-38.jpg
+2025-07-10_19-33-38,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-10_19-33-38.jpg
+2025-07-10_19-33-38,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-10_19-33-38.jpg
+2025-07-10_19-33-38,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-10_19-33-38.jpg
+2025-07-10_19-33-39,PPE,No Helmet,0.67,snapshots/PPE_No Helmet_2025-07-10_19-33-39.jpg
+2025-07-10_19-33-39,PPE,No Helmet,0.69,snapshots/PPE_No Helmet_2025-07-10_19-33-39.jpg
+2025-07-10_19-33-39,PPE,No Helmet,0.62,snapshots/PPE_No Helmet_2025-07-10_19-33-39.jpg
+2025-07-10_19-33-40,PPE,No Helmet,0.66,snapshots/PPE_No Helmet_2025-07-10_19-33-40.jpg
+2025-07-10_19-33-40,PPE,No Helmet,0.69,snapshots/PPE_No Helmet_2025-07-10_19-33-40.jpg
+2025-07-10_19-33-40,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_19-33-40.jpg
+2025-07-10_19-33-40,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-10_19-33-40.jpg
+2025-07-10_19-33-43,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-10_19-33-43.jpg
+2025-07-10_19-33-43,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-10_19-33-43.jpg
+2025-07-10_19-33-45,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-10_19-33-45.jpg
+2025-07-10_19-33-46,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-10_19-33-46.jpg
+2025-07-10_19-33-47,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-10_19-33-47.jpg
+2025-07-10_19-33-47,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_19-33-47.jpg
+2025-07-10_19-33-47,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-10_19-33-47.jpg
+2025-07-10_19-33-48,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-10_19-33-48.jpg
+2025-07-10_19-33-48,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_19-33-48.jpg
+2025-07-10_19-33-49,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_19-33-49.jpg
+2025-07-10_19-33-49,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_19-33-49.jpg
+2025-07-10_19-33-50,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_19-33-50.jpg
+2025-07-10_19-33-50,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-10_19-33-50.jpg
+2025-07-10_19-33-51,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_19-33-51.jpg
+2025-07-10_19-33-51,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_19-33-51.jpg
+2025-07-10_19-33-51,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_19-33-51.jpg
+2025-07-10_19-33-52,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_19-33-52.jpg
+2025-07-10_19-33-52,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-10_19-33-52.jpg
+2025-07-10_19-33-53,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-10_19-33-53.jpg
+2025-07-10_19-33-54,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_19-33-54.jpg
+2025-07-10_19-33-55,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-10_19-33-55.jpg
+2025-07-10_19-33-55,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_19-33-55.jpg
+2025-07-10_19-33-55,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-10_19-33-55.jpg
+2025-07-10_19-33-56,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-10_19-33-56.jpg
+2025-07-10_19-33-56,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_19-33-56.jpg
+2025-07-10_19-33-56,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-10_19-33-56.jpg
+2025-07-10_19-33-56,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-10_19-33-56.jpg
+2025-07-10_19-33-57,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-10_19-33-57.jpg
+2025-07-10_19-33-57,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_19-33-57.jpg
+2025-07-10_21-14-32,PPE,People,0.51,snapshots/PPE_People_2025-07-10_21-14-32.jpg
+2025-07-10_21-14-32,PPE,IFR suit,0.57,snapshots/PPE_IFR suit_2025-07-10_21-14-32.jpg
+2025-07-10_21-14-36,PPE,IFR suit,0.51,snapshots/PPE_IFR suit_2025-07-10_21-14-36.jpg
+2025-07-10_21-14-36,PPE,IFR suit,0.57,snapshots/PPE_IFR suit_2025-07-10_21-14-36.jpg
+2025-07-10_21-14-37,PPE,IFR suit,0.52,snapshots/PPE_IFR suit_2025-07-10_21-14-37.jpg
+2025-07-10_21-14-38,PPE,IFR suit,0.56,snapshots/PPE_IFR suit_2025-07-10_21-14-38.jpg
+2025-07-10_21-14-38,PPE,IFR suit,0.56,snapshots/PPE_IFR suit_2025-07-10_21-14-38.jpg
+2025-07-10_21-14-44,PPE,People,0.55,snapshots/PPE_People_2025-07-10_21-14-44.jpg
+2025-07-10_21-14-55,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-10_21-14-55.jpg
+2025-07-10_21-15-07,PPE,No IFR,0.53,snapshots/PPE_No IFR_2025-07-10_21-15-07.jpg
+2025-07-10_21-15-07,PPE,No IFR,0.51,snapshots/PPE_No IFR_2025-07-10_21-15-07.jpg
+2025-07-10_21-15-08,PPE,No IFR,0.55,snapshots/PPE_No IFR_2025-07-10_21-15-08.jpg
+2025-07-10_21-15-08,PPE,No IFR,0.54,snapshots/PPE_No IFR_2025-07-10_21-15-08.jpg
+2025-07-10_21-15-08,PPE,No IFR,0.52,snapshots/PPE_No IFR_2025-07-10_21-15-08.jpg
+2025-07-10_21-15-08,PPE,No IFR,0.53,snapshots/PPE_No IFR_2025-07-10_21-15-08.jpg
+2025-07-10_21-15-09,PPE,No IFR,0.59,snapshots/PPE_No IFR_2025-07-10_21-15-09.jpg
+2025-07-10_21-15-09,PPE,No IFR,0.6,snapshots/PPE_No IFR_2025-07-10_21-15-09.jpg
+2025-07-10_21-15-09,PPE,No IFR,0.57,snapshots/PPE_No IFR_2025-07-10_21-15-09.jpg
+2025-07-10_21-15-09,PPE,No IFR,0.6,snapshots/PPE_No IFR_2025-07-10_21-15-09.jpg
+2025-07-10_21-15-10,PPE,No IFR,0.55,snapshots/PPE_No IFR_2025-07-10_21-15-10.jpg
+2025-07-10_21-15-10,PPE,No IFR,0.53,snapshots/PPE_No IFR_2025-07-10_21-15-10.jpg
+2025-07-10_21-15-11,PPE,No IFR,0.51,snapshots/PPE_No IFR_2025-07-10_21-15-11.jpg
+2025-07-10_21-15-12,PPE,No IFR,0.56,snapshots/PPE_No IFR_2025-07-10_21-15-12.jpg
+2025-07-10_21-15-12,PPE,No IFR,0.52,snapshots/PPE_No IFR_2025-07-10_21-15-12.jpg
+2025-07-10_21-15-13,PPE,No IFR,0.51,snapshots/PPE_No IFR_2025-07-10_21-15-13.jpg
+2025-07-10_21-15-15,PPE,No IFR,0.61,snapshots/PPE_No IFR_2025-07-10_21-15-15.jpg
+2025-07-10_21-15-16,PPE,No IFR,0.6,snapshots/PPE_No IFR_2025-07-10_21-15-16.jpg
+2025-07-10_21-15-16,PPE,No IFR,0.55,snapshots/PPE_No IFR_2025-07-10_21-15-16.jpg
+2025-07-10_21-15-16,PPE,No IFR,0.51,snapshots/PPE_No IFR_2025-07-10_21-15-16.jpg
+2025-07-10_21-15-16,PPE,No IFR,0.54,snapshots/PPE_No IFR_2025-07-10_21-15-16.jpg
+2025-07-10_21-15-17,PPE,No IFR,0.54,snapshots/PPE_No IFR_2025-07-10_21-15-17.jpg
+2025-07-10_21-15-17,PPE,No IFR,0.57,snapshots/PPE_No IFR_2025-07-10_21-15-17.jpg
+2025-07-10_21-15-18,PPE,No IFR,0.51,snapshots/PPE_No IFR_2025-07-10_21-15-18.jpg
+2025-07-10_21-15-37,FireSmoke,smoke,0.53,snapshots/FireSmoke_smoke_2025-07-10_21-15-37.jpg
+2025-07-10_21-15-41,PPE,No IFR,0.51,snapshots/PPE_No IFR_2025-07-10_21-15-41.jpg
+2025-07-10_21-15-45,FireSmoke,smoke,0.55,snapshots/FireSmoke_smoke_2025-07-10_21-15-45.jpg
+2025-07-10_21-16-09,PPE,No Gloves,0.52,snapshots/PPE_No Gloves_2025-07-10_21-16-09.jpg
+2025-07-10_21-16-10,PPE,No IFR,0.52,snapshots/PPE_No IFR_2025-07-10_21-16-10.jpg
+2025-07-10_21-16-23,PPE,No IFR,0.54,snapshots/PPE_No IFR_2025-07-10_21-16-23.jpg
+2025-07-10_21-16-28,PPE,No IFR,0.56,snapshots/PPE_No IFR_2025-07-10_21-16-28.jpg
+2025-07-10_21-16-28,PPE,No IFR,0.54,snapshots/PPE_No IFR_2025-07-10_21-16-28.jpg
+2025-07-10_21-16-30,PPE,No IFR,0.5,snapshots/PPE_No IFR_2025-07-10_21-16-30.jpg
+2025-07-10_21-16-38,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_21-16-38.jpg
+2025-07-10_21-16-39,PPE,No IFR,0.61,snapshots/PPE_No IFR_2025-07-10_21-16-39.jpg
+2025-07-10_21-16-43,PPE,No IFR,0.56,snapshots/PPE_No IFR_2025-07-10_21-16-43.jpg
+2025-07-10_21-16-43,PPE,No IFR,0.56,snapshots/PPE_No IFR_2025-07-10_21-16-43.jpg
+2025-07-10_21-16-44,PPE,No IFR,0.53,snapshots/PPE_No IFR_2025-07-10_21-16-44.jpg
+2025-07-10_21-16-44,PPE,No IFR,0.57,snapshots/PPE_No IFR_2025-07-10_21-16-44.jpg
+2025-07-10_21-16-46,PPE,No IFR,0.62,snapshots/PPE_No IFR_2025-07-10_21-16-46.jpg
+2025-07-10_21-16-46,PPE,No IFR,0.61,snapshots/PPE_No IFR_2025-07-10_21-16-46.jpg
+2025-07-10_21-16-57,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_21-16-57.jpg
+2025-07-10_21-16-58,PPE,No IFR,0.51,snapshots/PPE_No IFR_2025-07-10_21-16-58.jpg
+2025-07-10_21-16-58,PPE,No IFR,0.6,snapshots/PPE_No IFR_2025-07-10_21-16-58.jpg
+2025-07-10_21-16-59,PPE,No IFR,0.52,snapshots/PPE_No IFR_2025-07-10_21-16-59.jpg
+2025-07-10_21-16-59,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_21-16-59.jpg
+2025-07-10_21-16-59,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-10_21-16-59.jpg
+2025-07-10_21-16-59,PPE,No Helmet,0.7,snapshots/PPE_No Helmet_2025-07-10_21-16-59.jpg
+2025-07-10_21-17-00,PPE,No Gloves,0.67,snapshots/PPE_No Gloves_2025-07-10_21-17-00.jpg
+2025-07-10_21-17-00,PPE,No Helmet,0.66,snapshots/PPE_No Helmet_2025-07-10_21-17-00.jpg
+2025-07-10_21-17-00,PPE,No Helmet,0.74,snapshots/PPE_No Helmet_2025-07-10_21-17-00.jpg
+2025-07-10_21-17-00,PPE,No Helmet,0.68,snapshots/PPE_No Helmet_2025-07-10_21-17-00.jpg
+2025-07-10_21-17-00,PPE,No Helmet,0.7,snapshots/PPE_No Helmet_2025-07-10_21-17-00.jpg
+2025-07-10_21-17-00,PPE,No Gloves,0.69,snapshots/PPE_No Gloves_2025-07-10_21-17-00.jpg
+2025-07-10_21-17-00,PPE,No Helmet,0.5,snapshots/PPE_No Helmet_2025-07-10_21-17-00.jpg
+2025-07-10_21-17-01,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_21-17-01.jpg
+2025-07-10_21-17-01,PPE,No Gloves,0.6,snapshots/PPE_No Gloves_2025-07-10_21-17-01.jpg
+2025-07-10_21-17-01,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-10_21-17-01.jpg
+2025-07-10_21-17-01,PPE,No IFR,0.51,snapshots/PPE_No IFR_2025-07-10_21-17-01.jpg
+2025-07-10_21-17-01,PPE,No Helmet,0.75,snapshots/PPE_No Helmet_2025-07-10_21-17-01.jpg
+2025-07-10_21-17-01,PPE,No IFR,0.53,snapshots/PPE_No IFR_2025-07-10_21-17-01.jpg
+2025-07-10_21-17-01,PPE,No Gloves,0.5,snapshots/PPE_No Gloves_2025-07-10_21-17-01.jpg
+2025-07-10_21-17-02,PPE,No Gloves,0.6,snapshots/PPE_No Gloves_2025-07-10_21-17-02.jpg
+2025-07-10_21-17-02,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_21-17-02.jpg
+2025-07-10_21-17-02,PPE,No IFR,0.51,snapshots/PPE_No IFR_2025-07-10_21-17-02.jpg
+2025-07-10_21-17-02,PPE,No Helmet,0.66,snapshots/PPE_No Helmet_2025-07-10_21-17-02.jpg
+2025-07-10_21-17-02,PPE,No Gloves,0.59,snapshots/PPE_No Gloves_2025-07-10_21-17-02.jpg
+2025-07-10_21-17-02,PPE,No Gloves,0.57,snapshots/PPE_No Gloves_2025-07-10_21-17-02.jpg
+2025-07-10_21-17-02,PPE,No Helmet,0.69,snapshots/PPE_No Helmet_2025-07-10_21-17-02.jpg
+2025-07-10_21-17-02,PPE,No Gloves,0.5,snapshots/PPE_No Gloves_2025-07-10_21-17-02.jpg
+2025-07-10_21-17-03,PPE,No Helmet,0.7,snapshots/PPE_No Helmet_2025-07-10_21-17-03.jpg
+2025-07-10_21-17-03,PPE,No IFR,0.52,snapshots/PPE_No IFR_2025-07-10_21-17-03.jpg
+2025-07-10_21-17-03,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-10_21-17-03.jpg
+2025-07-10_21-17-03,PPE,No IFR,0.55,snapshots/PPE_No IFR_2025-07-10_21-17-03.jpg
+2025-07-10_21-17-03,PPE,No Gloves,0.55,snapshots/PPE_No Gloves_2025-07-10_21-17-03.jpg
+2025-07-10_21-17-03,PPE,No Gloves,0.76,snapshots/PPE_No Gloves_2025-07-10_21-17-03.jpg
+2025-07-10_21-17-03,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-10_21-17-03.jpg
+2025-07-10_21-17-03,PPE,No IFR,0.55,snapshots/PPE_No IFR_2025-07-10_21-17-03.jpg
+2025-07-10_21-17-04,PPE,No Gloves,0.73,snapshots/PPE_No Gloves_2025-07-10_21-17-04.jpg
+2025-07-10_21-17-04,PPE,No Helmet,0.65,snapshots/PPE_No Helmet_2025-07-10_21-17-04.jpg
+2025-07-10_21-17-04,PPE,No Helmet,0.78,snapshots/PPE_No Helmet_2025-07-10_21-17-04.jpg
+2025-07-10_21-17-04,PPE,No IFR,0.56,snapshots/PPE_No IFR_2025-07-10_21-17-04.jpg
+2025-07-10_21-17-04,PPE,No Helmet,0.63,snapshots/PPE_No Helmet_2025-07-10_21-17-04.jpg
+2025-07-10_21-17-04,PPE,No Helmet,0.5,snapshots/PPE_No Helmet_2025-07-10_21-17-04.jpg
+2025-07-10_21-17-05,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-10_21-17-05.jpg
+2025-07-10_21-17-05,PPE,No IFR,0.53,snapshots/PPE_No IFR_2025-07-10_21-17-05.jpg
+2025-07-10_21-17-05,PPE,No Helmet,0.69,snapshots/PPE_No Helmet_2025-07-10_21-17-05.jpg
+2025-07-10_21-17-05,PPE,No Gloves,0.59,snapshots/PPE_No Gloves_2025-07-10_21-17-05.jpg
+2025-07-10_21-17-05,PPE,No IFR,0.52,snapshots/PPE_No IFR_2025-07-10_21-17-05.jpg
+2025-07-10_21-17-05,PPE,No Gloves,0.52,snapshots/PPE_No Gloves_2025-07-10_21-17-05.jpg
+2025-07-10_21-17-05,PPE,No Helmet,0.73,snapshots/PPE_No Helmet_2025-07-10_21-17-05.jpg
+2025-07-10_21-17-06,PPE,No Gloves,0.73,snapshots/PPE_No Gloves_2025-07-10_21-17-06.jpg
+2025-07-10_21-17-06,PPE,No Helmet,0.63,snapshots/PPE_No Helmet_2025-07-10_21-17-06.jpg
+2025-07-10_21-17-07,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-10_21-17-07.jpg
+2025-07-10_21-17-15,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-10_21-17-15.jpg
+2025-07-10_21-17-16,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-10_21-17-16.jpg
+2025-07-10_21-17-16,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-10_21-17-16.jpg
+2025-07-10_21-17-16,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-10_21-17-16.jpg
+2025-07-10_21-17-17,PPE,No Helmet,0.65,snapshots/PPE_No Helmet_2025-07-10_21-17-17.jpg
+2025-07-10_21-17-17,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_21-17-17.jpg
+2025-07-10_21-17-17,PPE,No Helmet,0.74,snapshots/PPE_No Helmet_2025-07-10_21-17-17.jpg
+2025-07-10_21-17-33,PPE,No Helmet,0.67,snapshots/PPE_No Helmet_2025-07-10_21-17-33.jpg
+2025-07-10_21-17-35,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_21-17-35.jpg
+2025-07-10_21-17-35,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_21-17-35.jpg
+2025-07-10_21-17-36,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-10_21-17-36.jpg
+2025-07-10_21-17-39,PPE,No IFR,0.6,snapshots/PPE_No IFR_2025-07-10_21-17-39.jpg
+2025-07-10_21-17-39,PPE,No Gloves,0.57,snapshots/PPE_No Gloves_2025-07-10_21-17-39.jpg
+2025-07-10_21-17-40,PPE,No Gloves,0.65,snapshots/PPE_No Gloves_2025-07-10_21-17-40.jpg
+2025-07-10_21-17-40,PPE,No Gloves,0.59,snapshots/PPE_No Gloves_2025-07-10_21-17-40.jpg
+2025-07-10_21-17-40,PPE,No Gloves,0.68,snapshots/PPE_No Gloves_2025-07-10_21-17-40.jpg
+2025-07-10_21-17-41,PPE,No Gloves,0.61,snapshots/PPE_No Gloves_2025-07-10_21-17-41.jpg
+2025-07-10_21-17-41,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-10_21-17-41.jpg
+2025-07-10_21-17-41,PPE,No Gloves,0.7,snapshots/PPE_No Gloves_2025-07-10_21-17-41.jpg
+2025-07-10_21-17-41,PPE,No Gloves,0.5,snapshots/PPE_No Gloves_2025-07-10_21-17-41.jpg
+2025-07-10_21-17-41,PPE,No Gloves,0.66,snapshots/PPE_No Gloves_2025-07-10_21-17-41.jpg
+2025-07-10_21-17-42,PPE,No Gloves,0.64,snapshots/PPE_No Gloves_2025-07-10_21-17-42.jpg
+2025-07-10_21-17-44,PPE,No IFR,0.59,snapshots/PPE_No IFR_2025-07-10_21-17-44.jpg
+2025-07-10_21-17-45,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-10_21-17-45.jpg
+2025-07-10_21-17-46,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-10_21-17-46.jpg
+2025-07-10_21-17-46,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-10_21-17-46.jpg
+2025-07-10_21-17-46,PPE,No IFR,0.6,snapshots/PPE_No IFR_2025-07-10_21-17-46.jpg
+2025-07-10_21-17-46,PPE,No Gloves,0.61,snapshots/PPE_No Gloves_2025-07-10_21-17-46.jpg
+2025-07-10_21-17-47,PPE,No Gloves,0.64,snapshots/PPE_No Gloves_2025-07-10_21-17-47.jpg
+2025-07-10_21-17-47,PPE,No IFR,0.57,snapshots/PPE_No IFR_2025-07-10_21-17-47.jpg
+2025-07-10_21-17-47,PPE,No Gloves,0.62,snapshots/PPE_No Gloves_2025-07-10_21-17-47.jpg
+2025-07-10_21-17-47,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-10_21-17-47.jpg
+2025-07-10_21-17-47,PPE,No IFR,0.51,snapshots/PPE_No IFR_2025-07-10_21-17-47.jpg
+2025-07-10_21-17-48,PPE,No Gloves,0.55,snapshots/PPE_No Gloves_2025-07-10_21-17-48.jpg
+2025-07-10_21-17-48,PPE,No Gloves,0.5,snapshots/PPE_No Gloves_2025-07-10_21-17-48.jpg
+2025-07-10_21-17-49,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-10_21-17-49.jpg
+2025-07-10_21-17-49,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-10_21-17-49.jpg
+2025-07-10_21-17-50,PPE,No Gloves,0.67,snapshots/PPE_No Gloves_2025-07-10_21-17-50.jpg
+2025-07-10_21-17-50,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-10_21-17-50.jpg
+2025-07-10_21-17-51,PPE,No Gloves,0.7,snapshots/PPE_No Gloves_2025-07-10_21-17-51.jpg
+2025-07-10_21-17-52,PPE,No Gloves,0.79,snapshots/PPE_No Gloves_2025-07-10_21-17-52.jpg
+2025-07-10_21-17-52,PPE,No Gloves,0.64,snapshots/PPE_No Gloves_2025-07-10_21-17-52.jpg
+2025-07-10_21-17-52,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-10_21-17-52.jpg
+2025-07-10_21-17-52,PPE,No IFR,0.53,snapshots/PPE_No IFR_2025-07-10_21-17-52.jpg
+2025-07-10_21-17-53,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-10_21-17-53.jpg
+2025-07-10_21-17-53,PPE,No Gloves,0.55,snapshots/PPE_No Gloves_2025-07-10_21-17-53.jpg
+2025-07-10_21-17-53,PPE,No IFR,0.53,snapshots/PPE_No IFR_2025-07-10_21-17-53.jpg
+2025-07-10_21-17-54,PPE,No IFR,0.54,snapshots/PPE_No IFR_2025-07-10_21-17-54.jpg
+2025-07-10_21-17-54,PPE,No Helmet,0.5,snapshots/PPE_No Helmet_2025-07-10_21-17-54.jpg
+2025-07-10_21-17-55,PPE,No Gloves,0.62,snapshots/PPE_No Gloves_2025-07-10_21-17-55.jpg
+2025-07-10_21-17-56,PPE,No Gloves,0.57,snapshots/PPE_No Gloves_2025-07-10_21-17-56.jpg
+2025-07-10_21-17-56,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-10_21-17-56.jpg
+2025-07-10_21-17-57,PPE,No Gloves,0.51,snapshots/PPE_No Gloves_2025-07-10_21-17-57.jpg
+2025-07-10_21-17-58,PPE,No Gloves,0.6,snapshots/PPE_No Gloves_2025-07-10_21-17-58.jpg
+2025-07-10_21-17-58,PPE,No IFR,0.54,snapshots/PPE_No IFR_2025-07-10_21-17-58.jpg
+2025-07-10_21-17-59,PPE,No IFR,0.53,snapshots/PPE_No IFR_2025-07-10_21-17-59.jpg
+2025-07-10_21-17-59,PPE,No Helmet,0.65,snapshots/PPE_No Helmet_2025-07-10_21-17-59.jpg
+2025-07-10_21-18-00,PPE,No Gloves,0.59,snapshots/PPE_No Gloves_2025-07-10_21-18-00.jpg
+2025-07-10_21-18-00,PPE,No Gloves,0.73,snapshots/PPE_No Gloves_2025-07-10_21-18-00.jpg
+2025-07-10_21-18-01,PPE,No Gloves,0.52,snapshots/PPE_No Gloves_2025-07-10_21-18-01.jpg
+2025-07-10_21-18-01,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_21-18-01.jpg
+2025-07-10_21-18-03,PPE,No Gloves,0.56,snapshots/PPE_No Gloves_2025-07-10_21-18-03.jpg
+2025-07-10_21-18-03,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_21-18-03.jpg
+2025-07-10_21-18-03,PPE,No Gloves,0.51,snapshots/PPE_No Gloves_2025-07-10_21-18-03.jpg
+2025-07-10_21-18-03,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-10_21-18-03.jpg
+2025-07-10_21-18-04,PPE,No Gloves,0.59,snapshots/PPE_No Gloves_2025-07-10_21-18-04.jpg
+2025-07-10_21-18-04,PPE,No Gloves,0.51,snapshots/PPE_No Gloves_2025-07-10_21-18-04.jpg
+2025-07-10_21-18-05,PPE,No Gloves,0.53,snapshots/PPE_No Gloves_2025-07-10_21-18-05.jpg
+2025-07-10_21-18-06,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-10_21-18-06.jpg
+2025-07-10_21-18-06,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-10_21-18-06.jpg
+2025-07-10_21-18-07,PPE,No Helmet,0.5,snapshots/PPE_No Helmet_2025-07-10_21-18-07.jpg
+2025-07-10_21-18-07,PPE,No Gloves,0.69,snapshots/PPE_No Gloves_2025-07-10_21-18-07.jpg
+2025-07-10_21-18-07,PPE,No IFR,0.61,snapshots/PPE_No IFR_2025-07-10_21-18-07.jpg
+2025-07-10_21-18-07,PPE,No Gloves,0.52,snapshots/PPE_No Gloves_2025-07-10_21-18-07.jpg
+2025-07-10_21-18-07,PPE,No IFR,0.53,snapshots/PPE_No IFR_2025-07-10_21-18-07.jpg
+2025-07-10_21-18-08,PPE,No IFR,0.53,snapshots/PPE_No IFR_2025-07-10_21-18-08.jpg
+2025-07-10_21-18-08,PPE,No IFR,0.51,snapshots/PPE_No IFR_2025-07-10_21-18-08.jpg
+2025-07-10_21-18-08,PPE,No Gloves,0.5,snapshots/PPE_No Gloves_2025-07-10_21-18-08.jpg
+2025-07-10_21-18-08,PPE,No Gloves,0.53,snapshots/PPE_No Gloves_2025-07-10_21-18-08.jpg
+2025-07-10_21-18-09,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-10_21-18-09.jpg
+2025-07-10_21-18-09,PPE,No IFR,0.52,snapshots/PPE_No IFR_2025-07-10_21-18-09.jpg
+2025-07-10_21-18-10,PPE,No IFR,0.63,snapshots/PPE_No IFR_2025-07-10_21-18-10.jpg
+2025-07-10_21-18-11,PPE,No IFR,0.52,snapshots/PPE_No IFR_2025-07-10_21-18-11.jpg
+2025-07-11_11-16-54,FireSmoke,smoke,0.51,snapshots/FireSmoke_smoke_2025-07-11_11-16-54.jpg
+2025-07-11_11-16-57,FireSmoke,smoke,0.62,snapshots/FireSmoke_smoke_2025-07-11_11-16-57.jpg
+2025-07-11_11-17-12,PPE,No Helmet,0.5,snapshots/PPE_No Helmet_2025-07-11_11-17-12.jpg
+2025-07-11_11-17-13,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_11-17-13.jpg
+2025-07-11_11-17-19,FireSmoke,smoke,0.54,snapshots/FireSmoke_smoke_2025-07-11_11-17-19.jpg
+2025-07-11_11-17-19,FireSmoke,smoke,0.53,snapshots/FireSmoke_smoke_2025-07-11_11-17-19.jpg
+2025-07-11_11-17-22,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-11_11-17-22.jpg
+2025-07-11_11-17-22,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-11_11-17-22.jpg
+2025-07-11_11-17-22,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_11-17-22.jpg
+2025-07-11_11-17-22,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-11_11-17-22.jpg
+2025-07-11_11-22-13,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-11_11-22-13.jpg
+2025-07-11_11-22-14,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-11_11-22-14.jpg
+2025-07-11_11-22-15,PPE,No Helmet,0.5,snapshots/PPE_No Helmet_2025-07-11_11-22-15.jpg
+2025-07-11_11-22-15,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-11_11-22-15.jpg
+2025-07-11_11-22-16,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-11_11-22-16.jpg
+2025-07-11_11-22-17,PPE,No Helmet,0.5,snapshots/PPE_No Helmet_2025-07-11_11-22-17.jpg
+2025-07-11_11-22-18,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-11_11-22-18.jpg
+2025-07-11_11-22-24,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-11_11-22-24.jpg
+2025-07-11_16-03-16,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-11_16-03-16.jpg
+2025-07-11_16-03-18,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-11_16-03-18.jpg
+2025-07-11_16-03-30,FireSmoke,smoke,0.57,snapshots/FireSmoke_smoke_2025-07-11_16-03-30.jpg
+2025-07-11_16-03-31,FireSmoke,smoke,0.63,snapshots/FireSmoke_smoke_2025-07-11_16-03-31.jpg
+2025-07-11_16-03-35,PPE,No Helmet,0.5,snapshots/PPE_No Helmet_2025-07-11_16-03-35.jpg
+2025-07-11_16-03-35,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-11_16-03-35.jpg
+2025-07-11_16-03-37,FireSmoke,smoke,0.56,snapshots/FireSmoke_smoke_2025-07-11_16-03-37.jpg
+2025-07-11_16-03-39,FireSmoke,smoke,0.67,snapshots/FireSmoke_smoke_2025-07-11_16-03-39.jpg
+2025-07-11_16-03-40,FireSmoke,smoke,0.5,snapshots/FireSmoke_smoke_2025-07-11_16-03-40.jpg
+2025-07-11_16-03-41,FireSmoke,smoke,0.58,snapshots/FireSmoke_smoke_2025-07-11_16-03-41.jpg
+2025-07-11_16-03-41,FireSmoke,smoke,0.58,snapshots/FireSmoke_smoke_2025-07-11_16-03-41.jpg
+2025-07-11_16-04-42,FireSmoke,smoke,0.52,snapshots/FireSmoke_smoke_2025-07-11_16-04-42.jpg
+2025-07-11_16-04-44,FireSmoke,smoke,0.52,snapshots/FireSmoke_smoke_2025-07-11_16-04-44.jpg
+2025-07-11_16-04-45,FireSmoke,smoke,0.61,snapshots/FireSmoke_smoke_2025-07-11_16-04-45.jpg
+2025-07-11_16-04-45,FireSmoke,smoke,0.59,snapshots/FireSmoke_smoke_2025-07-11_16-04-45.jpg
+2025-07-11_16-04-45,FireSmoke,smoke,0.53,snapshots/FireSmoke_smoke_2025-07-11_16-04-45.jpg
+2025-07-11_16-04-46,FireSmoke,smoke,0.55,snapshots/FireSmoke_smoke_2025-07-11_16-04-46.jpg
+2025-07-11_16-04-54,FireSmoke,smoke,0.73,snapshots/FireSmoke_smoke_2025-07-11_16-04-54.jpg
+2025-07-11_16-04-58,FireSmoke,smoke,0.55,snapshots/FireSmoke_smoke_2025-07-11_16-04-58.jpg
+2025-07-11_16-04-58,FireSmoke,smoke,0.52,snapshots/FireSmoke_smoke_2025-07-11_16-04-58.jpg
+2025-07-11_16-04-58,FireSmoke,smoke,0.72,snapshots/FireSmoke_smoke_2025-07-11_16-04-58.jpg
+2025-07-11_16-04-59,FireSmoke,smoke,0.77,snapshots/FireSmoke_smoke_2025-07-11_16-04-59.jpg
+2025-07-11_16-04-59,FireSmoke,smoke,0.57,snapshots/FireSmoke_smoke_2025-07-11_16-04-59.jpg
+2025-07-11_16-05-00,FireSmoke,smoke,0.52,snapshots/FireSmoke_smoke_2025-07-11_16-05-00.jpg
+2025-07-11_16-05-00,FireSmoke,smoke,0.7,snapshots/FireSmoke_smoke_2025-07-11_16-05-00.jpg
+2025-07-11_16-05-00,FireSmoke,smoke,0.61,snapshots/FireSmoke_smoke_2025-07-11_16-05-00.jpg
+2025-07-11_16-05-02,FireSmoke,smoke,0.61,snapshots/FireSmoke_smoke_2025-07-11_16-05-02.jpg
+2025-07-11_16-05-03,FireSmoke,smoke,0.62,snapshots/FireSmoke_smoke_2025-07-11_16-05-03.jpg
+2025-07-11_16-05-03,FireSmoke,smoke,0.58,snapshots/FireSmoke_smoke_2025-07-11_16-05-03.jpg
+2025-07-11_16-05-05,FireSmoke,smoke,0.59,snapshots/FireSmoke_smoke_2025-07-11_16-05-05.jpg
+2025-07-11_16-05-07,FireSmoke,smoke,0.51,snapshots/FireSmoke_smoke_2025-07-11_16-05-07.jpg
+2025-07-11_16-06-40,PPE,No Helmet,0.68,snapshots/PPE_No Helmet_2025-07-11_16-06-40.jpg
+2025-07-11_16-06-40,PPE,No Helmet,0.73,snapshots/PPE_No Helmet_2025-07-11_16-06-40.jpg
+2025-07-11_16-06-40,PPE,IFR suit,0.53,snapshots/PPE_IFR suit_2025-07-11_16-06-40.jpg
+2025-07-11_16-06-41,PPE,No Helmet,0.7,snapshots/PPE_No Helmet_2025-07-11_16-06-41.jpg
+2025-07-11_16-06-41,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_16-06-41.jpg
+2025-07-11_16-06-41,PPE,No Helmet,0.64,snapshots/PPE_No Helmet_2025-07-11_16-06-41.jpg
+2025-07-11_16-06-42,PPE,No Helmet,0.64,snapshots/PPE_No Helmet_2025-07-11_16-06-42.jpg
+2025-07-11_16-06-42,PPE,No Helmet,0.66,snapshots/PPE_No Helmet_2025-07-11_16-06-42.jpg
+2025-07-11_16-06-42,PPE,No Helmet,0.66,snapshots/PPE_No Helmet_2025-07-11_16-06-42.jpg
+2025-07-11_16-06-43,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-11_16-06-43.jpg
+2025-07-11_16-06-43,PPE,IFR suit,0.54,snapshots/PPE_IFR suit_2025-07-11_16-06-43.jpg
+2025-07-11_16-06-43,PPE,No Helmet,0.66,snapshots/PPE_No Helmet_2025-07-11_16-06-43.jpg
+2025-07-11_16-06-44,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_16-06-44.jpg
+2025-07-11_16-06-45,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-11_16-06-45.jpg
+2025-07-11_16-06-45,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-11_16-06-45.jpg
+2025-07-11_16-06-46,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-11_16-06-46.jpg
+2025-07-11_16-06-46,PPE,No Helmet,0.62,snapshots/PPE_No Helmet_2025-07-11_16-06-46.jpg
+2025-07-11_16-06-46,PPE,No Gloves,0.55,snapshots/PPE_No Gloves_2025-07-11_16-06-46.jpg
+2025-07-11_16-06-46,PPE,No Gloves,0.52,snapshots/PPE_No Gloves_2025-07-11_16-06-46.jpg
+2025-07-11_16-06-46,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-11_16-06-46.jpg
+2025-07-11_16-06-47,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-11_16-06-47.jpg
+2025-07-11_16-06-47,PPE,No Gloves,0.63,snapshots/PPE_No Gloves_2025-07-11_16-06-47.jpg
+2025-07-11_16-06-47,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-11_16-06-47.jpg
+2025-07-11_16-06-47,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-11_16-06-47.jpg
+2025-07-11_16-06-48,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_16-06-48.jpg
+2025-07-11_16-06-48,PPE,No Gloves,0.57,snapshots/PPE_No Gloves_2025-07-11_16-06-48.jpg
+2025-07-11_16-06-48,PPE,No Helmet,0.72,snapshots/PPE_No Helmet_2025-07-11_16-06-48.jpg
+2025-07-11_16-06-49,PPE,No Helmet,0.63,snapshots/PPE_No Helmet_2025-07-11_16-06-49.jpg
+2025-07-11_16-06-49,PPE,No Helmet,0.7,snapshots/PPE_No Helmet_2025-07-11_16-06-49.jpg
+2025-07-11_16-06-50,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-11_16-06-50.jpg
+2025-07-11_16-06-51,PPE,No Helmet,0.63,snapshots/PPE_No Helmet_2025-07-11_16-06-51.jpg
+2025-07-11_16-06-51,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-11_16-06-51.jpg
+2025-07-11_16-06-51,PPE,IFR suit,0.54,snapshots/PPE_IFR suit_2025-07-11_16-06-51.jpg
+2025-07-11_16-06-51,PPE,IFR suit,0.51,snapshots/PPE_IFR suit_2025-07-11_16-06-51.jpg
+2025-07-11_16-06-52,PPE,No Helmet,0.62,snapshots/PPE_No Helmet_2025-07-11_16-06-52.jpg
+2025-07-11_16-06-57,PPE,No Gloves,0.68,snapshots/PPE_No Gloves_2025-07-11_16-06-57.jpg
+2025-07-11_16-06-57,PPE,No Gloves,0.58,snapshots/PPE_No Gloves_2025-07-11_16-06-57.jpg
+2025-07-11_16-07-02,PPE,IFR suit,0.52,snapshots/PPE_IFR suit_2025-07-11_16-07-02.jpg
+2025-07-11_16-07-33,PPE,IFR suit,0.58,snapshots/PPE_IFR suit_2025-07-11_16-07-33.jpg
+2025-07-11_16-07-34,PPE,IFR suit,0.66,snapshots/PPE_IFR suit_2025-07-11_16-07-34.jpg
+2025-07-11_16-07-34,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-11_16-07-34.jpg
+2025-07-11_16-07-34,PPE,IFR suit,0.54,snapshots/PPE_IFR suit_2025-07-11_16-07-34.jpg
+2025-07-11_16-07-35,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-11_16-07-35.jpg
+2025-07-11_16-07-35,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_16-07-35.jpg
+2025-07-11_16-07-35,PPE,IFR suit,0.53,snapshots/PPE_IFR suit_2025-07-11_16-07-35.jpg
+2025-07-11_16-07-35,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-11_16-07-35.jpg
+2025-07-11_16-07-35,PPE,IFR suit,0.5,snapshots/PPE_IFR suit_2025-07-11_16-07-35.jpg
+2025-07-11_16-07-36,PPE,IFR suit,0.55,snapshots/PPE_IFR suit_2025-07-11_16-07-36.jpg
+2025-07-11_16-07-36,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-11_16-07-36.jpg
+2025-07-11_16-07-36,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-11_16-07-36.jpg
+2025-07-11_16-07-36,PPE,IFR suit,0.54,snapshots/PPE_IFR suit_2025-07-11_16-07-36.jpg
+2025-07-11_16-07-37,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-11_16-07-37.jpg
+2025-07-11_16-07-37,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_16-07-37.jpg
+2025-07-11_16-07-38,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-11_16-07-38.jpg
+2025-07-11_16-07-38,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_16-07-38.jpg
+2025-07-11_16-07-39,PPE,IFR suit,0.51,snapshots/PPE_IFR suit_2025-07-11_16-07-39.jpg
+2025-07-11_16-07-39,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-11_16-07-39.jpg
+2025-07-11_16-07-39,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_16-07-39.jpg
+2025-07-11_16-07-40,PPE,No Helmet,0.66,snapshots/PPE_No Helmet_2025-07-11_16-07-40.jpg
+2025-07-11_16-07-40,PPE,No Gloves,0.57,snapshots/PPE_No Gloves_2025-07-11_16-07-40.jpg
+2025-07-11_16-07-41,PPE,No Helmet,0.63,snapshots/PPE_No Helmet_2025-07-11_16-07-41.jpg
+2025-07-11_16-07-41,PPE,No Helmet,0.62,snapshots/PPE_No Helmet_2025-07-11_16-07-41.jpg
+2025-07-11_16-07-41,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-11_16-07-41.jpg
+2025-07-11_16-07-41,PPE,IFR suit,0.52,snapshots/PPE_IFR suit_2025-07-11_16-07-41.jpg
+2025-07-11_16-07-42,PPE,No Helmet,0.68,snapshots/PPE_No Helmet_2025-07-11_16-07-42.jpg
+2025-07-11_16-07-42,PPE,No Helmet,0.72,snapshots/PPE_No Helmet_2025-07-11_16-07-42.jpg
+2025-07-11_16-07-42,PPE,No Gloves,0.72,snapshots/PPE_No Gloves_2025-07-11_16-07-42.jpg
+2025-07-11_16-07-42,PPE,IFR suit,0.55,snapshots/PPE_IFR suit_2025-07-11_16-07-42.jpg
+2025-07-11_16-07-42,PPE,No Gloves,0.53,snapshots/PPE_No Gloves_2025-07-11_16-07-42.jpg
+2025-07-11_16-07-43,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-11_16-07-43.jpg
+2025-07-11_16-07-43,PPE,No Helmet,0.62,snapshots/PPE_No Helmet_2025-07-11_16-07-43.jpg
+2025-07-11_16-07-44,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_16-07-44.jpg
+2025-07-11_16-07-44,PPE,No Helmet,0.62,snapshots/PPE_No Helmet_2025-07-11_16-07-44.jpg
+2025-07-11_16-07-45,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-11_16-07-45.jpg
+2025-07-11_16-07-45,PPE,IFR suit,0.53,snapshots/PPE_IFR suit_2025-07-11_16-07-45.jpg
+2025-07-11_16-07-46,PPE,No Helmet,0.62,snapshots/PPE_No Helmet_2025-07-11_16-07-46.jpg
+2025-07-11_16-07-46,PPE,IFR suit,0.54,snapshots/PPE_IFR suit_2025-07-11_16-07-46.jpg
+2025-07-11_16-07-46,PPE,No Gloves,0.53,snapshots/PPE_No Gloves_2025-07-11_16-07-46.jpg
+2025-07-11_16-07-46,PPE,No Helmet,0.69,snapshots/PPE_No Helmet_2025-07-11_16-07-46.jpg
+2025-07-11_16-07-46,PPE,No Gloves,0.51,snapshots/PPE_No Gloves_2025-07-11_16-07-46.jpg
+2025-07-11_16-07-46,PPE,IFR suit,0.5,snapshots/PPE_IFR suit_2025-07-11_16-07-46.jpg
+2025-07-11_16-07-47,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-11_16-07-47.jpg
+2025-07-11_16-07-47,PPE,IFR suit,0.52,snapshots/PPE_IFR suit_2025-07-11_16-07-47.jpg
+2025-07-11_16-07-47,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-11_16-07-47.jpg
+2025-07-11_16-07-51,FireSmoke,smoke,0.84,snapshots/FireSmoke_smoke_2025-07-11_16-07-51.jpg
+2025-07-11_16-07-51,FireSmoke,smoke,0.68,snapshots/FireSmoke_smoke_2025-07-11_16-07-51.jpg
+2025-07-11_18-12-34,FireSmoke,smoke,0.53,snapshots/FireSmoke_smoke_2025-07-11_18-12-34.jpg
+2025-07-11_18-12-34,FireSmoke,smoke,0.6,snapshots/FireSmoke_smoke_2025-07-11_18-12-34.jpg
+2025-07-11_18-12-35,FireSmoke,smoke,0.71,snapshots/FireSmoke_smoke_2025-07-11_18-12-35.jpg
+2025-07-11_18-12-35,FireSmoke,smoke,0.72,snapshots/FireSmoke_smoke_2025-07-11_18-12-35.jpg
+2025-07-11_18-12-35,FireSmoke,smoke,0.64,snapshots/FireSmoke_smoke_2025-07-11_18-12-35.jpg
+2025-07-11_18-12-36,FireSmoke,smoke,0.78,snapshots/FireSmoke_smoke_2025-07-11_18-12-36.jpg
+2025-07-11_18-12-36,FireSmoke,smoke,0.69,snapshots/FireSmoke_smoke_2025-07-11_18-12-36.jpg
+2025-07-11_18-12-36,FireSmoke,smoke,0.69,snapshots/FireSmoke_smoke_2025-07-11_18-12-36.jpg
+2025-07-11_18-12-37,FireSmoke,smoke,0.51,snapshots/FireSmoke_smoke_2025-07-11_18-12-37.jpg
+2025-07-11_18-12-44,FireSmoke,smoke,0.54,snapshots/FireSmoke_smoke_2025-07-11_18-12-44.jpg
+2025-07-11_18-12-46,FireSmoke,smoke,0.64,snapshots/FireSmoke_smoke_2025-07-11_18-12-46.jpg
+2025-07-11_18-12-50,FireSmoke,smoke,0.55,snapshots/FireSmoke_smoke_2025-07-11_18-12-50.jpg
+2025-07-11_18-12-50,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-11_18-12-50.jpg
+2025-07-11_18-12-51,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-11_18-12-51.jpg
+2025-07-11_18-12-51,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-11_18-12-51.jpg
+2025-07-11_18-12-51,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-11_18-12-51.jpg
+2025-07-11_18-12-52,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_18-12-52.jpg
+2025-07-11_18-12-52,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-11_18-12-52.jpg
+2025-07-11_18-12-52,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-11_18-12-52.jpg
+2025-07-11_18-12-53,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-11_18-12-53.jpg
+2025-07-11_18-12-54,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_18-12-54.jpg
+2025-07-11_18-12-54,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-11_18-12-54.jpg
+2025-07-11_18-12-54,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-11_18-12-54.jpg
+2025-07-11_18-12-54,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-11_18-12-54.jpg
+2025-07-11_18-12-55,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-11_18-12-55.jpg
+2025-07-11_18-12-55,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-11_18-12-55.jpg
+2025-07-11_18-12-56,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-11_18-12-56.jpg
+2025-07-11_18-12-56,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-11_18-12-56.jpg
+2025-07-11_18-12-56,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-11_18-12-56.jpg
+2025-07-11_18-12-57,PPE,No Helmet,0.63,snapshots/PPE_No Helmet_2025-07-11_18-12-57.jpg
+2025-07-11_18-12-57,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-11_18-12-57.jpg
+2025-07-11_18-12-57,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-11_18-12-57.jpg
+2025-07-11_18-12-58,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-11_18-12-58.jpg
+2025-07-11_18-12-58,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-11_18-12-58.jpg
+2025-07-11_18-12-59,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-11_18-12-59.jpg
+2025-07-11_18-13-00,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-11_18-13-00.jpg
+2025-07-11_18-13-00,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-11_18-13-00.jpg
+2025-07-11_18-13-00,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-11_18-13-00.jpg
+2025-07-11_18-13-01,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-11_18-13-01.jpg
+2025-07-11_18-13-01,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-11_18-13-01.jpg
+2025-07-11_18-13-02,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-11_18-13-02.jpg
+2025-07-11_18-13-02,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_18-13-02.jpg
+2025-07-11_18-13-04,FireSmoke,smoke,0.71,snapshots/FireSmoke_smoke_2025-07-11_18-13-04.jpg
+2025-07-11_18-13-05,PPE,No Helmet,0.72,snapshots/PPE_No Helmet_2025-07-11_18-13-05.jpg
+2025-07-11_18-13-05,PPE,No Helmet,0.62,snapshots/PPE_No Helmet_2025-07-11_18-13-05.jpg
+2025-07-11_18-13-05,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-11_18-13-05.jpg
+2025-07-11_18-13-06,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-11_18-13-06.jpg
+2025-07-11_18-13-06,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-11_18-13-06.jpg
+2025-07-11_18-13-07,PPE,No Helmet,0.65,snapshots/PPE_No Helmet_2025-07-11_18-13-07.jpg
+2025-07-11_18-13-07,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-11_18-13-07.jpg
+2025-07-11_18-13-08,PPE,No Helmet,0.63,snapshots/PPE_No Helmet_2025-07-11_18-13-08.jpg
+2025-07-11_18-13-08,PPE,No Helmet,0.63,snapshots/PPE_No Helmet_2025-07-11_18-13-08.jpg
+2025-07-11_18-13-08,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-11_18-13-08.jpg
+2025-07-11_18-13-08,PPE,No Helmet,0.62,snapshots/PPE_No Helmet_2025-07-11_18-13-08.jpg
+2025-07-11_18-13-09,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-11_18-13-09.jpg
+2025-07-11_18-13-09,PPE,No Helmet,0.63,snapshots/PPE_No Helmet_2025-07-11_18-13-09.jpg
+2025-07-11_18-13-09,PPE,No Helmet,0.62,snapshots/PPE_No Helmet_2025-07-11_18-13-09.jpg
+2025-07-11_18-13-10,PPE,No Helmet,0.68,snapshots/PPE_No Helmet_2025-07-11_18-13-10.jpg
+2025-07-11_18-13-10,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-11_18-13-10.jpg
+2025-07-11_18-13-10,PPE,No Helmet,0.67,snapshots/PPE_No Helmet_2025-07-11_18-13-10.jpg
+2025-07-11_18-13-10,PPE,No Helmet,0.59,snapshots/PPE_No Helmet_2025-07-11_18-13-10.jpg
+2025-07-11_18-13-11,PPE,No Helmet,0.64,snapshots/PPE_No Helmet_2025-07-11_18-13-11.jpg
+2025-07-11_18-13-11,PPE,No Helmet,0.63,snapshots/PPE_No Helmet_2025-07-11_18-13-11.jpg
+2025-07-11_18-13-11,PPE,No Helmet,0.7,snapshots/PPE_No Helmet_2025-07-11_18-13-11.jpg
+2025-07-11_18-13-11,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-11_18-13-11.jpg
+2025-07-11_18-13-11,PPE,No Helmet,0.64,snapshots/PPE_No Helmet_2025-07-11_18-13-11.jpg
+2025-07-11_18-13-12,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_18-13-12.jpg
+2025-07-11_18-13-12,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-11_18-13-12.jpg
+2025-07-11_18-13-12,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-11_18-13-12.jpg
+2025-07-11_18-13-13,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_18-13-13.jpg
+2025-07-11_18-13-13,PPE,No Helmet,0.64,snapshots/PPE_No Helmet_2025-07-11_18-13-13.jpg
+2025-07-11_18-13-13,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-11_18-13-13.jpg
+2025-07-11_18-13-14,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-11_18-13-14.jpg
+2025-07-11_18-13-14,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-11_18-13-14.jpg
+2025-07-11_18-13-14,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-11_18-13-14.jpg
+2025-07-11_18-13-15,PPE,No Helmet,0.66,snapshots/PPE_No Helmet_2025-07-11_18-13-15.jpg
+2025-07-11_18-13-15,PPE,No Helmet,0.63,snapshots/PPE_No Helmet_2025-07-11_18-13-15.jpg
+2025-07-11_18-13-15,PPE,No Helmet,0.62,snapshots/PPE_No Helmet_2025-07-11_18-13-15.jpg
+2025-07-11_18-13-15,PPE,No Helmet,0.65,snapshots/PPE_No Helmet_2025-07-11_18-13-15.jpg
+2025-07-11_18-13-16,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-11_18-13-16.jpg
+2025-07-11_18-13-16,PPE,No Helmet,0.64,snapshots/PPE_No Helmet_2025-07-11_18-13-16.jpg
+2025-07-11_18-13-16,PPE,No Helmet,0.66,snapshots/PPE_No Helmet_2025-07-11_18-13-16.jpg
+2025-07-11_18-13-16,PPE,No Helmet,0.63,snapshots/PPE_No Helmet_2025-07-11_18-13-16.jpg
+2025-07-11_18-13-17,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-11_18-13-17.jpg
+2025-07-11_18-13-17,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-11_18-13-17.jpg
+2025-07-11_18-13-17,PPE,No Helmet,0.69,snapshots/PPE_No Helmet_2025-07-11_18-13-17.jpg
+2025-07-11_18-13-17,PPE,No Helmet,0.5,snapshots/PPE_No Helmet_2025-07-11_18-13-17.jpg
+2025-07-11_18-13-17,PPE,No Helmet,0.63,snapshots/PPE_No Helmet_2025-07-11_18-13-17.jpg
+2025-07-11_18-13-17,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-11_18-13-17.jpg
+2025-07-11_18-13-17,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-11_18-13-17.jpg
+2025-07-11_18-13-18,FireSmoke,smoke,0.52,snapshots/FireSmoke_smoke_2025-07-11_18-13-18.jpg
+2025-07-11_18-13-18,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-11_18-13-18.jpg
+2025-07-11_18-13-18,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-11_18-13-18.jpg
+2025-07-11_18-13-18,FireSmoke,smoke,0.63,snapshots/FireSmoke_smoke_2025-07-11_18-13-18.jpg
+2025-07-11_18-13-19,FireSmoke,smoke,0.73,snapshots/FireSmoke_smoke_2025-07-11_18-13-19.jpg
+2025-07-11_18-13-21,FireSmoke,smoke,0.53,snapshots/FireSmoke_smoke_2025-07-11_18-13-21.jpg
+2025-07-11_18-13-21,FireSmoke,smoke,0.63,snapshots/FireSmoke_smoke_2025-07-11_18-13-21.jpg
+2025-07-11_18-37-12,FireSmoke,smoke,0.54,snapshots/FireSmoke_smoke_2025-07-11_18-37-12.jpg
+2025-07-11_18-37-13,FireSmoke,smoke,0.54,snapshots/FireSmoke_smoke_2025-07-11_18-37-13.jpg
+2025-07-11_18-37-13,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-11_18-37-13.jpg
+2025-07-11_18-37-13,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-11_18-37-13.jpg
+2025-07-11_18-37-13,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-11_18-37-13.jpg
+2025-07-11_18-37-14,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-11_18-37-14.jpg
+2025-07-11_18-37-15,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-11_18-37-15.jpg
+2025-07-11_18-37-16,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-11_18-37-16.jpg
+2025-07-11_18-37-17,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-11_18-37-17.jpg
+2025-07-11_18-37-25,PPE,No Helmet,0.5,snapshots/PPE_No Helmet_2025-07-11_18-37-25.jpg
+2025-07-11_18-41-04,FireSmoke,smoke,0.62,snapshots/FireSmoke_smoke_2025-07-11_18-41-04.jpg
+2025-07-11_18-41-05,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-11_18-41-05.jpg
+2025-07-11_18-41-06,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-11_18-41-06.jpg
+2025-07-11_18-41-06,FireSmoke,smoke,0.56,snapshots/FireSmoke_smoke_2025-07-11_18-41-06.jpg
+2025-07-11_21-39-43,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-11_21-39-43.jpg
+2025-07-11_21-39-51,PPE,No Helmet,0.6,snapshots/PPE_No Helmet_2025-07-11_21-39-51.jpg
+2025-07-11_21-39-52,PPE,No Helmet,0.63,snapshots/PPE_No Helmet_2025-07-11_21-39-52.jpg
+2025-07-11_21-39-52,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-11_21-39-52.jpg
+2025-07-11_21-39-52,PPE,No Helmet,0.5,snapshots/PPE_No Helmet_2025-07-11_21-39-52.jpg
+2025-07-11_21-39-53,PPE,No Helmet,0.58,snapshots/PPE_No Helmet_2025-07-11_21-39-53.jpg
+2025-07-11_21-39-53,PPE,No Helmet,0.61,snapshots/PPE_No Helmet_2025-07-11_21-39-53.jpg
+2025-07-12_19-09-00,FireSmoke,smoke,0.51,snapshots/FireSmoke_smoke_2025-07-12_19-09-00.jpg
+2025-07-12_19-09-00,FireSmoke,smoke,0.51,snapshots/FireSmoke_smoke_2025-07-12_19-09-00.jpg
+2025-07-12_19-09-24,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-12_19-09-24.jpg
+2025-07-12_19-09-24,PPE,No Helmet,0.5,snapshots/PPE_No Helmet_2025-07-12_19-09-24.jpg
+2025-07-12_19-09-28,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-12_19-09-28.jpg
+2025-07-12_19-09-29,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-12_19-09-29.jpg
+2025-07-12_19-09-30,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-12_19-09-30.jpg
+2025-07-12_19-09-30,PPE,No Helmet,0.5,snapshots/PPE_No Helmet_2025-07-12_19-09-30.jpg
+2025-07-12_19-09-32,PPE,No Helmet,0.64,snapshots/PPE_No Helmet_2025-07-12_19-09-32.jpg
+2025-07-12_19-09-32,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-12_19-09-32.jpg
+2025-07-12_19-09-33,PPE,No Helmet,0.62,snapshots/PPE_No Helmet_2025-07-12_19-09-33.jpg
+2025-07-12_19-09-34,PPE,No Helmet,0.57,snapshots/PPE_No Helmet_2025-07-12_19-09-34.jpg
+2025-07-12_19-09-38,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-12_19-09-38.jpg
+2025-07-12_19-09-38,PPE,No Helmet,0.52,snapshots/PPE_No Helmet_2025-07-12_19-09-38.jpg
+2025-07-12_19-09-40,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-12_19-09-40.jpg
+2025-07-12_19-09-41,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-12_19-09-41.jpg
+2025-07-12_19-09-41,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-12_19-09-41.jpg
+2025-07-12_19-09-45,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-12_19-09-45.jpg
+2025-07-12_19-09-45,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-12_19-09-45.jpg
+2025-07-12_19-09-49,PPE,No Helmet,0.53,snapshots/PPE_No Helmet_2025-07-12_19-09-49.jpg
+2025-07-12_19-09-54,PPE,No Helmet,0.54,snapshots/PPE_No Helmet_2025-07-12_19-09-54.jpg
+2025-07-12_19-46-15,FireSmoke,smoke,0.51,snapshots/FireSmoke_smoke_2025-07-12_19-46-15.jpg
+2025-07-12_19-46-15,FireSmoke,smoke,0.58,snapshots/FireSmoke_smoke_2025-07-12_19-46-15.jpg
+2025-07-12_19-46-16,FireSmoke,smoke,0.63,snapshots/FireSmoke_smoke_2025-07-12_19-46-16.jpg
+2025-07-12_19-46-16,FireSmoke,smoke,0.5,snapshots/FireSmoke_smoke_2025-07-12_19-46-16.jpg
+2025-07-12_19-46-19,FireSmoke,smoke,0.51,snapshots/FireSmoke_smoke_2025-07-12_19-46-19.jpg
+2025-07-12_19-46-21,FireSmoke,smoke,0.54,snapshots/FireSmoke_smoke_2025-07-12_19-46-21.jpg
+2025-07-12_19-46-23,FireSmoke,smoke,0.54,snapshots/FireSmoke_smoke_2025-07-12_19-46-23.jpg
+2025-07-12_19-46-30,PPE,No Helmet,0.55,snapshots/PPE_No Helmet_2025-07-12_19-46-30.jpg
+2025-07-12_19-46-31,PPE,No Helmet,0.51,snapshots/PPE_No Helmet_2025-07-12_19-46-31.jpg
+2025-07-12_19-46-37,FireSmoke,smoke,0.52,snapshots/FireSmoke_smoke_2025-07-12_19-46-37.jpg
+2025-07-12_19-48-51,PPE,No Helmet,0.56,snapshots/PPE_No Helmet_2025-07-12_19-48-51.jpg
+2025-07-12_20-03-49,FireSmoke,smoke,0.56,snapshots/FireSmoke_smoke_2025-07-12_20-03-49.jpg
+2025-07-12_20-03-50,FireSmoke,smoke,0.52,snapshots/FireSmoke_smoke_2025-07-12_20-03-50.jpg
+2025-07-12_20-18-25,FireSmoke,smoke,0.76,snapshots/FireSmoke_smoke_2025-07-12_20-18-25.jpg
+2025-07-12_20-18-26,FireSmoke,smoke,0.71,snapshots/FireSmoke_smoke_2025-07-12_20-18-26.jpg
+2025-07-12_20-18-29,FireSmoke,smoke,0.55,snapshots/FireSmoke_smoke_2025-07-12_20-18-29.jpg
+2025-07-12_20-18-30,FireSmoke,smoke,0.59,snapshots/FireSmoke_smoke_2025-07-12_20-18-30.jpg
+2025-07-12_20-18-32,FireSmoke,smoke,0.69,snapshots/FireSmoke_smoke_2025-07-12_20-18-32.jpg
+2025-07-12_20-18-44,FireSmoke,smoke,0.53,snapshots/FireSmoke_smoke_2025-07-12_20-18-44.jpg
+2025-07-12_20-19-08,PPE,No Gloves,0.62,snapshots/PPE_No Gloves_2025-07-12_20-19-08.jpg
